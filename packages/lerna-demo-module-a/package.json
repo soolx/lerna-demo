@@ -1,0 +1,9 @@
+{
+  "name": "lerna-demo-module-a",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lerna-demo-core": "0.0.1"
+  }
+}

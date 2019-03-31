@@ -1,0 +1,14 @@
+{
+  "name": "lerna-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:soolx/lerna-demo.git",
+  "author": "soolxcode <soolxcode@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.13.1"
+  },
+  "scripts": {
+    "bootstrap": "lerna bootstrap"
+  }
+}
